@@ -22,7 +22,7 @@ struct tabFour: View {
                     .frame(width: 200 , height: 200)
             }
         }
-        }
+    }
 }
 
 #Preview {
